@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springBoot-swagger2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 刘鑫
+Implementation-Vendor-Id: com.tit
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springBoot-swagger2
+Created-By: Maven Integration for Eclipse
+
